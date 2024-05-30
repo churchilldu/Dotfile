@@ -1,0 +1,22 @@
+[
+  {
+    "localRoot": "toolbar_____",
+    "strategy": "overwrite",
+    "syncInterval": 360,
+    "nestedSync": true,
+    "failsafe": true,
+    "allowNetwork": false,
+    "type": "webdav",
+    "url": "https://dav.jianguoyun.com/dav/",
+    "username": "churchilldu9@gmail.com",
+    "password": "acpby9u6rb3ajxj8",
+    "bookmark_file": "dotfile/bookmarks.xbel",
+    "bookmark_file_type": "xbel",
+    "includeCredentials": false,
+    "allowRedirects": false,
+    "passphrase": "",
+    "enabled": false,
+    "syncing": false,
+    "error": "E019: HTTP status 404. Failed PUT request. Check your server configuration and log."
+  }
+]

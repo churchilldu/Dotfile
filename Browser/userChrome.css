@@ -1,0 +1,20 @@
+/*
+	https://taoshu.in/firefox/vertical-tabs.html
+	https://gist.github.com/80ROkWOC4j/98108d2ea5af58159136b264d41c258c
+*/
+
+#TabsToolbar {
+  visibility: collapse;
+}
+#sidebar-header {
+  visibility: collapse !important;
+}
+#nav-bar {
+  /* This works on qhd(100% hidpi) and 4k(150%) screen */
+  margin-top: -40px;
+  margin-right: 138px; /* 140px is ok */
+}
+#toolbar-menubar {
+  height: 40px;
+  margin-left: -100vw;
+}
